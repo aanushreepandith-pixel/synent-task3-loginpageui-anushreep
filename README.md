@@ -15,6 +15,7 @@ A modern, production-grade login page built for Synent Technologies Pvt. Ltd.Des
 
 synent-login/
 │
+
 ├── synent_index.html      # Main HTML structure
 
 ├── synent_style.css       # All styles & animations
