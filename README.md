@@ -3,7 +3,9 @@
 A modern, production-grade login page built for Synent Technologies Pvt. Ltd.Designed with a corporate-tech aesthetic using a Navy + Electric Blue color palette.
 
 ✨ **Features**
+
 🎨 UI & Design
+
 * Two-panel layout — Brand panel (left) + Form panel (right)
 * Animated dot-grid canvas background (living data-center feel)
 * Floating particle effects drifting upward
